@@ -1,0 +1,31 @@
+# 忽略所有操作系统生成的临时文件
+*.tmp
+*.swp
+*.swo
+*~
+*.bak
+*.DS_Store
+*.idea
+*.vscode
+*.log
+
+# 忽略编译生成的文件
+*.o
+*.obj
+*.exe
+*.out
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+__pycache__/
+*.so
+*.dll
+*.dylib
+
+# 忽略模型文件
+*.pth
+
+*.zip
+*.rar
